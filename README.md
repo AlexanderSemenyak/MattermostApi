@@ -1,3 +1,5 @@
+origin: https://github.com/nikkilocke/MattermostApi
+
 # MattermostApi
 
 This is a C# wrapper to (the most important bits of) the [Mattermost API](https://api.mattermost.com).
